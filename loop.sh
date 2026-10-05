@@ -1,5 +1,5 @@
 #!/bin/bash
-for i in 10 20 30
+for i in 1 2 3
 do
-  echo "Value: $i"
+  echo "Number: $i"
 done

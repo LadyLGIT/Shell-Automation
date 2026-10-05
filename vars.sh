@@ -1,3 +1,3 @@
 #!/bin/bash
-FRUIT="Apple"
-echo "I love $FRUIT"
+NAME="Student"
+echo "Hello $NAME"

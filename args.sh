@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "You typed: $1"
+echo "Argument 1: $1"
